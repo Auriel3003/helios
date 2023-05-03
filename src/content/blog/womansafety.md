@@ -23,10 +23,8 @@ The device has the potential to be a valuable tool for women's safety in a varie
 
 Overall, the Woman Safety with Technology: a Smart SOS Device is a promising project that has the potential to empower women and increase their safety. As technology continues to advance, it is important to continue developing innovative solutions that can help address the issue of women's safety.
 
-<!-- ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png) -->
+![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png)
 
-![Introducing AstroPaper 2.0](https://youtube.com/shorts/J2RXcrFPo8c?feature=share)
-![video](https://youtu.be/J2RXcrFPo8c)
 
 
 In the first few lines of code, we are importing the RPi.GPIO module to interface with the GPIO pins on the Raspberry Pi. We then set the mode to GPIO.BOARD and set up a pin (defined by the button_pin variable) as an input pin with a pull-up resistor.
