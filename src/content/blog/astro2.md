@@ -27,10 +27,11 @@ Overall, the Woman Safety with Technology: a Smart SOS Device is a promising pro
 
 ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png)
 
-Sure, here's an example of how a few lines from your project could be explained in terms of Python code:
 
-python
 
+In the first few lines of code, we are importing the RPi.GPIO module to interface with the GPIO pins on the Raspberry Pi. We then set the mode to GPIO.BOARD and set up a pin (defined by the button_pin variable) as an input pin with a pull-up resistor.
+
+```ts
 # Set up GPIO pin for push button with pull-up resistor
 import RPi.GPIO as GPIO
 
@@ -44,9 +45,7 @@ while True:
             capture_image()
             send_email(get_gps_data(), get_image_data())
 
-In the first few lines of code, we are importing the RPi.GPIO module to interface with the GPIO pins on the Raspberry Pi. We then set the mode to GPIO.BOARD and set up a pin (defined by the button_pin variable) as an input pin with a pull-up resistor.
-
-
+```
 
 In the next part of the code, we enter a loop that continuously checks if the button has been pressed. When the button is pressed (i.e., the input on the pin goes from high to low), we capture multiple images (defined by the num_images variable) and send emails with GPS data and image data using the send_email() function. This function retrieves the GPS data and image data using the get_gps_data() and get_image_data() functions respectively.
 
@@ -61,40 +60,3 @@ Overall, this code demonstrates how we can set up the push button and configure 
 
 
 
-
-```ts
-// old content fetching method
-- const postImportResult = import.meta.glob<MarkdownInstance<Frontmatter>>(
-  "../contents/**/**/*.md",);
-
-// new content fetching method
-+ const postImportResult = await getCollection("blog");
-```
-
-### Modified Search Logic for better Search Result
-
-In the older version of AstroPaper, when someone search some article, the search criteria keys that will be searched are `title`, `description` and `headings` (heading means all the headings h1 ~ h6 of the blog post). In AstroPaper v2, only `title` and `description` will be searched as the user types.
-
-### Renamed Frontmatter Properties
-
-The following frontmatter properties are renamed.
-
-| Old Names | New Names   |
-| --------- | ----------- |
-| datetime  | pubDatetime |
-| slug      | postSlug    |
-
-### Default Tag for blog post
-
-If a blog post doesn't have any tag (in other words, frontmatter property `tags` is not specified), the default tag `others` will be used for that blog post. But you can set the default tag in the `/src/content/_schemas.ts` file.
-
-```ts
-// src/contents/_schemas.ts
-export const blogSchema = z.object({
-  // ---
-  // replace "others" with whatever you want
-  tags: z.array(z.string()).default(["others"]),
-  ogImage: z.string().optional(),
-  description: z.string(),
-});
-```
