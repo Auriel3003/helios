@@ -32,13 +32,13 @@ Overall, the Woman Safety with Technology: a Smart SOS Device is a promising pro
 In the first few lines of code, we are importing the RPi.GPIO module to interface with the GPIO pins on the Raspberry Pi. We then set the mode to GPIO.BOARD and set up a pin (defined by the button_pin variable) as an input pin with a pull-up resistor.
 
 ```ts
-# Set up GPIO pin for push button with pull-up resistor
+//# Set up GPIO pin for push button with pull-up resistor
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(button_pin, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 
-# Configure button press to capture multiple images and send emails with GPS data
+//# Configure button press to capture multiple images and send emails with GPS data
 while True:
     if GPIO.input(button_pin) == GPIO.LOW:
         for i in range(num_images):
