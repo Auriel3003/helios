@@ -25,7 +25,7 @@ Overall, the Woman Safety with Technology: a Smart SOS Device is a promising pro
 
 <!-- ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png) -->
 
-![Introducing AstroPaper 2.0](https://www.instagram.com/reel/CrtaradIham/?utm_source=ig_web_copy_link)
+![Introducing AstroPaper 2.0](https://youtube.com/shorts/J2RXcrFPo8c?feature=share)
 
 
 
