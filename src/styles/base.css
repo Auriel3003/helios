@@ -5,7 +5,7 @@
 @layer base {
   :root,
 html[data-theme="light"] {
-  --color-fill: 229, 198, 254;
+  --color-fill: 255, 221, 254;
   --color-text-base: 1, 44, 86;
   --color-accent: 225, 74, 57;
   --color-card: 217, 209, 195;
