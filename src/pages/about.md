@@ -7,7 +7,7 @@ title: "About"
 
 Welcome to <b>HELIOS's website</b>, where we showcase our recent engineering projects and offer them for sale. We are a team of <b>Passionate and Dedicated Engineers</b> who believe that our work can make a difference in the world.
 
-Our journey began in our second year of engineering, where we discovered our love for designing and building innovative solutions to complex problems. We spent countless hours in the lab, refining our skills and pushing ourselves to the limits of our creativity.
+Our journey began in our <b>Second Year of Engineering</b>, where we discovered our love for designing and building innovative solutions to complex problems. We spent countless hours in the lab, refining our skills and pushing ourselves to the limits of our creativity.
 
 Our hard work paid off, and we were proud to see our projects earn accolades and recognition from our peers and professors. We knew that we had something special on our hands, and we wanted to share it with the world.
 
