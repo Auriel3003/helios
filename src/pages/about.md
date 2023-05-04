@@ -3,7 +3,9 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Welcome to [Your Name]'s website, where we showcase our recent engineering projects and offer them for sale. We are a team of passionate and dedicated engineers who believe that our work can make a difference in the world.
+### HELIOS :
+
+Welcome to <b>HELIOS's website</b>, where we showcase our recent engineering projects and offer them for sale. We are a team of <b>Passionate and Dedicated Engineers</b> who believe that our work can make a difference in the world.
 
 Our journey began in our second year of engineering, where we discovered our love for designing and building innovative solutions to complex problems. We spent countless hours in the lab, refining our skills and pushing ourselves to the limits of our creativity.
 
