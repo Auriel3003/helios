@@ -23,7 +23,6 @@ The device has the potential to be a valuable tool for women's safety in a varie
 
 Overall, the Woman Safety with Technology: a Smart SOS Device is a promising project that has the potential to empower women and increase their safety. As technology continues to advance, it is important to continue developing innovative solutions that can help address the issue of women's safety.
 
-![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png)
 
 ![image](https://user-images.githubusercontent.com/103866475/236380520-91f1d1f0-994c-4ee9-be8a-a0fa73d9ae5c.png)
 
