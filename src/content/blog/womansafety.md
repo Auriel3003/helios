@@ -25,6 +25,9 @@ Overall, the Woman Safety with Technology: a Smart SOS Device is a promising pro
 
 ![Introducing AstroPaper 2.0](https://user-images.githubusercontent.com/53733092/215683840-dc2502f5-8c5a-44f0-a26c-4e7180455056.png)
 
+![image](https://user-images.githubusercontent.com/103866475/236380520-91f1d1f0-994c-4ee9-be8a-a0fa73d9ae5c.png)
+
+
 ### HELLOOOOOOOOO
 
 In the first few lines of code, we are importing the RPi.GPIO module to interface with the GPIO pins on the Raspberry Pi. We then set the mode to GPIO.BOARD and set up a pin (defined by the button_pin variable) as an input pin with a pull-up resistor.
