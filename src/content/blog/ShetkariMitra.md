@@ -87,21 +87,15 @@ description: Of the Farmer, By the Farmer, For the Farmer
 - Improve productivity of farmers
 - Expand impact of Farmers Buddy project.
     
-![Watch the Complete VIDEO](https://github.com/Auriel3003/helios/raw/main/pics/WhatsApp%20Video%202023-05-05%20at%2011.15.51%20AM.mp4)
+[Watch the Complete VIDEO](https://github.com/Auriel3003/helios/raw/main/pics/WhatsApp%20Video%202023-05-05%20at%2011.15.51%20AM.mp4)
 
-![image](https://user-images.githubusercontent.com/103866475/236385630-f2ddc363-a2e2-4a02-8245-e8755fc80281.png)
+[image](https://user-images.githubusercontent.com/103866475/236385630-f2ddc363-a2e2-4a02-8245-e8755fc80281.png)
 
-![image](https://user-images.githubusercontent.com/103866475/236385551-66f3d39c-7c87-4d16-89fa-8bbada51f731.png)
-
-![image](https://user-images.githubusercontent.com/103866475/236385577-b0ff658b-d758-416a-b3e5-e1ee73a58c6d.png)
-
-![image](https://user-images.githubusercontent.com/103866475/236385596-ae5d3215-07c7-4510-acb6-f317a2f251a9.png)
-
-![image](https://user-images.githubusercontent.com/103866475/236385610-7f3f9cc7-241e-4544-aef5-2a41ec055768.png)
 
 ![image](https://user-images.githubusercontent.com/103866475/236385957-5dfb207d-76cc-43f1-b51c-30ef9a2c0fc5.png)
 ![image](https://user-images.githubusercontent.com/103866475/236385973-cfe403a2-79ad-4d97-8e4b-06d51045a9e3.png)
 
+![image](https://user-images.githubusercontent.com/103866475/236385610-7f3f9cc7-241e-4544-aef5-2a41ec055768.png)
 
 
 
