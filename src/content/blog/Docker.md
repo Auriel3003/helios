@@ -104,7 +104,7 @@ In conclusion, the case study of Docker's use in an IoT application highlights t
 
 Sure, let's explore how Docker and Edge computing are used in some specific platforms like AWS and Azure.
 
-#### AWS IoT Greengrass and Docker:
+### AWS IoT Greengrass and Docker:
 
 AWS IoT Greengrass is a service that extends AWS cloud capabilities to edge devices, allowing them to run local compute, messaging, and data caching in a secure manner. Docker is used in Greengrass to package and deploy containerized applications to edge devices.
 
@@ -116,7 +116,7 @@ By using Docker with Greengrass, developers can package all the required softwar
 
 AWS provides a Docker image that includes the Greengrass Core software, which can be used as a base image for building custom images that include application-specific code and dependencies. Developers can use standard Docker commands to build, test, and deploy container images to edge devices running Greengrass.
 
-#### Azure IoT Edge and Docker:
+### Azure IoT Edge and Docker:
 
 Azure IoT Edge is a service that extends Azure cloud capabilities to edge devices, allowing them to run local compute, messaging, and AI models in a secure manner. Docker is used in Azure IoT Edge to package and deploy containerized applications to edge devices.
 
