@@ -10,9 +10,6 @@ tags:
 description: A Deep Dive into IoT 
 ---
 
-[Watch the Complete VIDEO](https://github.com/Auriel3003/helios/raw/main/pics/WhatsApp%20Video%202023-05-05%20at%2011.15.51%20AM.mp4)
-
-[image](https://user-images.githubusercontent.com/103866475/236385630-f2ddc363-a2e2-4a02-8245-e8755fc80281.png)
 
 ##  INTRODUCTION :
 
