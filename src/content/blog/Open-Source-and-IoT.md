@@ -2,7 +2,7 @@
 author: Helios
 pubDatetime: 2023-05-08T09:57:52.737Z
 title: Unleashing the Power of Open-Source Platforms 
-postSlug: open-source-n-iot
+postSlug: m
 featured: true
 ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
