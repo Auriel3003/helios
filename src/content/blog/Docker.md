@@ -157,40 +157,44 @@ Overall, the case study of Docker Systems and its use of open source software in
 
 ## Reference:
 
-J. W. Paulson, G. Succi and A. Eberlein, "An empirical study of open-source and closed-source software products," in IEEE Transactions on Software Engineering, vol. 30, no. 4, pp. 246-256, April 2004, doi: 10.1109/TSE.2004.1274044.
-Morabito, Roberto & Farris, Ivan & Iera, Antonio & Taleb, Tarik. (2017). Evaluating Performance of Containerized IoT Services for Clustered Devices at the Network Edge. IEEE Internet of Things Journal. PP. 1-1. 10.1109/JIOT.2017.2714638.
-Mirani, A.A.; Velasco-Hernandez, G.; Awasthi, A.; Walsh, J. Key Challenges and Emerging Technologies in Industrial IoT Architectures: A Review. Sensors 2022, 22, 5836. https://doi.org/10.3390/s22155836
-Yu, Wei & Liang, Fan & He, Xiaofei & Hatcher, William & Lu, Chao & Lin, Jie & Yang, Xinyu. (2017). A Survey on the Edge Computing for the Internet of Things. IEEE Access. PP. 1-1. 10.1109/ACCESS.2017.2778504.
-Noor, Shahid & Koehler, Bridget & Steenson, Abby & Caballero, Jesus & Ellenberger, David & Heilman, Lucas. (2020). IoTDoc: A Docker-Container Based Architecture of IoT-Enabled Cloud System. 10.1007/978-3-030-24405-7_4.
-https://www.docker.com/blog/from-edge-to-mainstream-scaling-to-100k-iot-devices/
-Beltrão, Alessandro & Bernard, Breno & França, Breno Bernard & Travassos, Guilherme. (2020). Performance Evaluation of Kubernetes as Deployment Platform for IoT Devices.
-https://www.cncf.io/blog/2020/09/25/kubernetes-could-be-the-one-to-make-the-internet-of-things-iot-reach-its-potential/
-Qutqut, Mahmoud & Al-Sakran, Aya & Almasalha, Fadi & Hassanein, Hossam. (2018). Comprehensive Survey of the IoT Open Source OSs. IET Wireless Sensor Systems. 8. 10.1049/iet-wss.2018.5033.
-Abosata, N.; Al-Rubaye, S.; Inalhan, G.; Emmanouilidis, C. Internet of Things for System Integrity: A Comprehensive Survey on Security, Attacks and Countermeasures for Industrial Applications. Sensors 2021, 21, 3654. https://doi.org/10.3390/s21113654
-Premsankar, Gopika & Francesco, Mario & Taleb, Tarik. (2018). Edge Computing for the Internet of Things: A Case Study. IEEE Internet of Things Journal. PP. 1-1. 10.1109/JIOT.2018.2805263.
-Official Websites:
-[Docker](https://www.docker.com/)
-[Linux](https://www.linuxfoundation.org/)
-[Kubernates](https://kubernetes.io/)
-[Prometheus](https://prometheus.io/)
-[OpenSource](https://opensource.org/)
-[EdgeComputing](https://www.edgecomputingworld.com/)
-Dockers:
-[Docker Hub](https://hub.docker.com/)
-[Docker Compose documentation](https://docs.docker.com/compose/)
-[Docker Swarm documentation](https://docs.docker.com/engine/swarm/)
-Kubernates:
-[Kubernetes documentation (official)](https://kubernetes.io/docs/home/)
-[Kubernetes documentation (Google Cloud)](https://cloud.google.com/kubernetes-engine/docs/)
-[Helm (package manager for Kubernetes) documentation](https://helm.sh/docs/)
-[Istio (service mesh for Kubernetes) documentation](https://istio.io/latest/docs/)
-EDGE:
-[Edge Computing Consortium](https://www.ecocea.org/)
-[Industrial Internet Consortium](https://www.iiconsortium.org/)
-[EdgeX Foundry](https://www.edgexfoundry.org/)
-Linux:
-[Linux Weekly News](https://lwn.net/)
-[Linux Journal](https://www.linuxjournal.com/)
-[The Linux Documentation Project](https://tldp.org/)
-[IoTivity](https://iotivity.org/)
-[Linux IoT](https://www.linux.com/iot/)
+1. J. W. Paulson, G. Succi and A. Eberlein, "An empirical study of open-source and closed-source software products," in IEEE Transactions on Software Engineering, vol. 30, no. 4, pp. 246-256, April 2004, doi: 10.1109/TSE.2004.1274044.
+2. Morabito, Roberto & Farris, Ivan & Iera, Antonio & Taleb, Tarik. (2017). Evaluating Performance of Containerized IoT Services for Clustered Devices at the Network Edge. IEEE Internet of Things Journal. PP. 1-1. 10.1109/JIOT.2017.2714638.
+3. Mirani, A.A.; Velasco-Hernandez, G.; Awasthi, A.; Walsh, J. Key Challenges and Emerging Technologies in Industrial IoT Architectures: A Review. Sensors 2022, 22, 5836. https://doi.org/10.3390/s22155836
+4. Yu, Wei & Liang, Fan & He, Xiaofei & Hatcher, William & Lu, Chao & Lin, Jie & Yang, Xinyu. (2017). A Survey on the Edge Computing for the Internet of Things. IEEE Access. PP. 1-1. 10.1109/ACCESS.2017.2778504.
+5. Noor, Shahid & Koehler, Bridget & Steenson, Abby & Caballero, Jesus & Ellenberger, David & Heilman, Lucas. (2020). IoTDoc: A Docker-Container Based Architecture of IoT-Enabled Cloud System. 10.1007/978-3-030-24405-7_4.
+6. https://www.docker.com/blog/from-edge-to-mainstream-scaling-to-100k-iot-devices/
+7. Beltrão, Alessandro & Bernard, Breno & França, Breno Bernard & Travassos, Guilherme. (2020). Performance Evaluation of Kubernetes as Deployment Platform for IoT Devices.
+8. https://www.cncf.io/blog/2020/09/25/kubernetes-could-be-the-one-to-make-the-internet-of-things-iot-reach-its-potential/
+9. Qutqut, Mahmoud & Al-Sakran, Aya & Almasalha, Fadi & Hassanein, Hossam. (2018). Comprehensive Survey of the IoT Open Source OSs. IET Wireless Sensor Systems. 8. 10.1049/iet-wss.2018.5033.
+10. Abosata, N.; Al-Rubaye, S.; Inalhan, G.; Emmanouilidis, C. Internet of Things for System Integrity: A Comprehensive Survey on Security, Attacks and Countermeasures for Industrial Applications. Sensors 2021, 21, 3654. https://doi.org/10.3390/s21113654
+11. Premsankar, Gopika & Francesco, Mario & Taleb, Tarik. (2018). Edge Computing for the Internet of Things: A Case Study. IEEE Internet of Things Journal. PP. 1-1. 10.1109/JIOT.2018.2805263.
+12. Official Websites:
+- [Docker](https://www.docker.com/)
+- [Linux](https://www.linuxfoundation.org/)
+- [Kubernates](https://kubernetes.io/)
+- [Prometheus](https://prometheus.io/)
+- [OpenSource](https://opensource.org/)
+- [EdgeComputing](https://www.edgecomputingworld.com/)
+
+13. Dockers:
+- [Docker Hub](https://hub.docker.com/)
+- [Docker Compose documentation](https://docs.docker.com/compose/)
+- [Docker Swarm documentation](https://docs.docker.com/engine/swarm/)
+
+14. Kubernates:
+- [Kubernetes documentation (official)](https://kubernetes.io/docs/home/)
+- [Kubernetes documentation (Google Cloud)](https://cloud.google.com/kubernetes-engine/docs/)
+- [Helm (package manager for Kubernetes) documentation](https://helm.sh/docs/)
+- [Istio (service mesh for Kubernetes) documentation](https://istio.io/latest/docs/)
+
+15. EDGE:
+- [Edge Computing Consortium](https://www.ecocea.org/)
+- [Industrial Internet Consortium](https://www.iiconsortium.org/)
+- [EdgeX Foundry](https://www.edgexfoundry.org/)
+
+16. Linux:
+- [Linux Weekly News](https://lwn.net/)
+- [Linux Journal](https://www.linuxjournal.com/)
+- [The Linux Documentation Project](https://tldp.org/)
+- [IoTivity](https://iotivity.org/)
+- [Linux IoT](https://www.linux.com/iot/)
