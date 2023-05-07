@@ -17,6 +17,9 @@ The Internet of Things (IoT) presents unique challenges for software development
 
 Keywords: Internet-of-Things, Docker, Greengrass, Edge, Linux, Kubernates
 
+![image](https://user-images.githubusercontent.com/103866475/236695548-66bdf4fc-01bd-41dd-aa6a-a2ae783588ea.png)
+
+
 ## Introduction
 
 **The Internet of Things (IoT)** industry has seen exponential growth in recent years, with more and more devices being connected to the internet every day. This trend has the potential to revolutionize various sectors, including healthcare, agriculture, transportation, and manufacturing, by providing real-time data and insights that can be used to optimize processes and improve outcomes.
@@ -26,6 +29,8 @@ At the same time, the tech industry as a whole has increasingly turned to open s
 One company that has successfully leveraged open source in the IoT industry is Docker Systems. Docker has developed a platform that makes it easier for developers to create, deploy, and manage applications across different devices and platforms. By relying heavily on open source software, including Linux, Kubernetes, and various other libraries and tools, Docker has been able to innovate quickly and stay ahead of the curve in a rapidly evolving industry.
 
 In this case study, we will explore how Docker Systems has used open source software to drive innovation in the IoT industry, and provide a real-world example of how this approach has been successful in practice. We will also discuss the benefits and challenges of using open source in the IoT industry, and offer some insights into the future of this exciting and dynamic field.
+
+![image](https://user-images.githubusercontent.com/103866475/236695559-5386acbb-9c26-4ece-95d9-2e20d73b09a5.png)
 
  
 ## II.     Background
@@ -41,6 +46,8 @@ Another challenge is security, as IoT devices are often connected to sensitive s
 Finally, scalability is a challenge in the IoT industry, as applications must be able to handle large volumes of data and traffic. This requires careful planning and design to ensure that the application can handle a large number of devices and users without slowing down or crashing.
 
 Overall, Docker Systems has played an important role in addressing these challenges by providing a standardized platform that makes it easier for developers to create and deploy applications across a wide range of devices and platforms. By relying on open source software, Docker has been able to innovate quickly and stay ahead of the curve in a rapidly evolving industry.
+
+![image](https://user-images.githubusercontent.com/103866475/236695578-714d87e7-c5fa-48b1-b3d1-e1dcf98a47b9.png)
 
 
 ## III.    DOCKER and the OPEN SOURCE
@@ -78,6 +85,9 @@ Docker Systems heavily relies on open source software to power its platform and 
 - **In the context of Docker**, Prometheus is often used to monitor the performance and health of Docker containers and their associated applications. By collecting and analyzing metrics such as CPU usage, memory usage, network traffic, and application errors, Prometheus can help developers to identify issues and optimize performance in real-time. Prometheus can be integrated with other tools such as Grafana to provide powerful visualization and alerting capabilities.
 - **In addition to Prometheus, Linux is also a key technology** for Docker in the IoT industry. Linux is a free and open source operating system that provides a stable and flexible foundation for Docker containers. Linux is widely used in the cloud and IoT industries due to its reliability, scalability, and low cost. By leveraging the power of Linux, Docker can develop and deploy applications across a wide range of devices and environments, making it an ideal platform for IoT applications.
 
+![image](https://user-images.githubusercontent.com/103866475/236695590-9ff25cb0-fe04-4a1f-9dba-36df1fa3f783.png)
+
+
 By relying on these open source technologies, Docker has been able to build a powerful and flexible platform that can be used to develop and deploy applications across a wide range of devices and environments. The use of open source software has allowed Docker to accelerate innovation, reduce costs, and stay at the forefront of the IoT industry.
 
 The benefits of using open source software in the IoT industry are numerous. For one, open source software is typically free to use, which can help to reduce costs and accelerate innovation. Additionally, open source software is often more flexible and customizable than proprietary software, which can help developers to build more tailored solutions.
@@ -103,6 +113,9 @@ Furthermore, open source software provides a platform for innovation and collabo
 In conclusion, the case study of Docker's use in an IoT application highlights the benefits of using containerization, orchestration, and open source software in the development and deployment of industrial IoT solutions. By simplifying the management of complex software stacks, improving reliability and security, and reducing costs, Docker and other open source technologies can provide a powerful platform for developing custom solutions that meet the specific needs of IoT applications. As the IoT industry continues to grow, the importance of open source technologies like Docker is only likely to increase, providing developers with the flexibility, scalability, and innovation they need to stay ahead of the curve.
 
 Sure, let's explore how Docker and Edge computing are used in some specific platforms like AWS and Azure.
+
+![image](https://user-images.githubusercontent.com/103866475/236695625-561473a6-37b1-4f45-be4e-b95fe96baade.png)
+
 
 ### AWS IoT Greengrass and Docker:
 
@@ -143,6 +156,9 @@ Despite these risks, the overall impact of Docker's use of open source in the Io
 
 Overall, the use of Docker and open source technologies in the IoT industry has had a transformative impact on the way that IoT applications are developed and deployed. By providing a flexible and scalable platform for managing software stacks, Docker has helped to accelerate the development of new IoT applications, while also improving the reliability and security of these systems. While there are risks associated with using open source software, the benefits of Docker's use of open source in the IoT industry are clear, and are likely to continue to drive innovation and growth in the years ahead.
 
+![image](https://user-images.githubusercontent.com/103866475/236695636-c6894151-5aa0-4baf-bea4-6edd842bbccb.png)
+
+
 ## VI     Conclusions
 
 In conclusion, the case study of Docker Systems and its use of open source software in the IoT industry has highlighted the significant benefits and potential risks associated with this approach. Docker's containerization and orchestration capabilities have helped to simplify the development and deployment of IoT applications, while also improving the reliability and security of these systems. However, the use of open source software can also present challenges related to security vulnerabilities and compatibility issues.
@@ -152,6 +168,8 @@ Looking forward, there is significant potential for continued development and gr
 At the same time, it will also be important to remain vigilant about potential security risks and take steps to address these issues proactively. This may include investing in stronger security protocols and leveraging the power of open source communities to identify and address potential vulnerabilities.
 
 Overall, the case study of Docker Systems and its use of open source software in the IoT industry provides valuable insights into the potential of this approach, as well as the challenges that lie ahead. By continuing to invest in the power of open source software, developers and businesses can help to unlock the full potential of the IoT industry and drive innovation and growth for years to come.
+
+![image](https://user-images.githubusercontent.com/103866475/236695668-521b58a2-d35d-4fe8-9a8d-a1429fe07200.png)
 
 
 ## Reference:
