@@ -64,9 +64,8 @@ Docker Systems heavily relies on open source software to power its platform and 
 
 #### 3. Ansible: 
 
-Ansible is an open source automation tool that is commonly used in conjunction with Docker. Ansible allows developers to automate tasks such as deploying, configuring, and managing Docker containers, making it a valuable tool for streamlining the development process.
-
-Overall, Ansible and Docker are powerful tools that can be used to streamline the development process and accelerate innovation in the IoT industry. By leveraging the power of open source software, such as Linux, Docker has been able to provide innovative solutions to complex problems in the IoT industry, and help to drive the growth and development of this exciting field.
+- Ansible is an open source automation tool that is commonly used in conjunction with Docker. Ansible allows developers to automate tasks such as deploying, configuring, and managing Docker containers, making it a valuable tool for streamlining the development process.
+- Overall, Ansible and Docker are powerful tools that can be used to streamline the development process and accelerate innovation in the IoT industry. By leveraging the power of open source software, such as Linux, Docker has been able to provide innovative solutions to complex problems in the IoT industry, and help to drive the growth and development of this exciting field.
 
 #### 4. Jenkins: 
 - Jenkins and Docker are two popular open source technologies that are often used together to automate the build and deployment of applications.
