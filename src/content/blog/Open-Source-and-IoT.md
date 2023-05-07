@@ -20,8 +20,6 @@ But open-source platforms do more than just make IoT technology accessible. They
 
 Moreover, open-source platforms encourage collaboration among developers, which has led to the development of a vast community of developers who contribute to the growth of IoT technology. This collaboration has driven innovation in IoT technology, allowing developers to push the boundaries of what is possible.
 
-In summary, open-source platforms have played a critical role in the growth and development of IoT technology and applications. They have made it easier for individuals and businesses to access and develop IoT solutions, encouraged collaboration and innovation among developers, and paved the way for a new era of technology and applications
-
 ## Impact of Open-Source Platforms on IoT Technology :
 
 Open-source platforms such as Raspberry Pi, Arduino, NodeMCUs, and Jetson Nano have had a significant impact on IoT technology in several ways, including:
@@ -38,7 +36,6 @@ Open-source platforms such as Raspberry Pi, Arduino, NodeMCUs, and Jetson Nano h
 - **Agriculture**: Open-source platforms have also had an impact on agriculture. For example, the NodeMCU platform has been used to develop precision farming systems, remote monitoring and control systems for greenhouses, and livestock monitoring systems. These solutions have helped farmers improve their crop yields and animal welfare.
 - **Healthcare**: Open-source platforms have made it easier to develop IoT solutions for healthcare. For example, the Raspberry Pi platform has been used to develop remote patient monitoring systems, wearable health monitoring devices, and smart medication dispensers. These solutions have helped healthcare providers improve patient outcomes and reduce healthcare costs.
 
-In summary, open-source platforms have had a significant impact on IoT technology and applications. They have made it easier for individuals and businesses to access and develop IoT solutions, encouraged collaboration and innovation among developers, and led to the development of several use cases in industries such as smart home, industrial IoT, agriculture, and healthcare.
 
 ## Various open-source platforms and application boards that are available for IoT development:
 
@@ -71,8 +68,6 @@ In conclusion, open-source platforms have been instrumental in driving the growt
 Moreover, the use cases and applications of open-source platforms in IoT technology are vast and diverse, spanning across industries such as smart homes, industrial IoT, agriculture, healthcare, and more. These solutions have helped individuals and businesses improve their efficiency, reduce costs, and enhance their products and services.
 
 Looking ahead, the role of open-source platforms in IoT technology is expected to continue to grow, with new platforms and technologies being developed and enhanced to meet the evolving needs of the IoT ecosystem. Collaboration and innovation among developers will continue to be essential in driving the growth and development of IoT technology and applications.
-
-In summary, open-source platforms have played a critical role in the growth and development of IoT technology and applications, and their impact is expected to continue to be significant in the years to come. The future of IoT technology and applications is exciting, and open-source platforms will undoubtedly play a crucial role in shaping it.
 
 ## Talking about the FUTURE :
 
