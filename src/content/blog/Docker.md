@@ -215,3 +215,16 @@ Overall, the case study of Docker Systems and its use of open source software in
 - [The Linux Documentation Project](https://tldp.org/)
 - [IoTivity](https://iotivity.org/)
 - [Linux IoT](https://www.linux.com/iot/)
+
+17. AWS Greehgrass and Docker:
+- [AWS IoT Greengrass documentation](https://docs.aws.amazon.com/greengrass/latest/developerguide/what-is-gg.html)
+- [AWS IoT Greengrass Developer Guide (includes Docker support)](https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-docker.html)
+- [Docker documentation for AWS](https://docs.docker.com/cloud/infrastructure/aws/)
+- [Docker documentation for AWS IoT Greengrass](https://docs.docker.com/cloud/infrastructure/aws/greengrass/)
+
+18. Azure EDGE and Docker : 
+- [Azure IoT Edge documentation](https://docs.microsoft.com/en-us/azure/iot-edge/)
+- [Azure IoT Edge with Docker documentation]( https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-docker)
+- [Azure IoT Edge on GitHub](https://github.com/azure/iot-edge)
+- [Docker Hub for Azure IoT Edge](https://hub.docker.com/_/microsoft-azureiotedge)
+
